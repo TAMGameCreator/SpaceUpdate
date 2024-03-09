@@ -7,6 +7,11 @@ h1{
   text-align: center;
   color: white;
 }
+h2{
+  font-size: 7vw;
+  text-align: center;
+  color: white;
+}
 .text{
   text-align: left;
   padding-left: 5%;
@@ -29,6 +34,11 @@ img:hover{
 @media (max-width:600px) and (min-width:400px) {
   h1{
     font-size: 7vw;
+    text-align: center;
+    color: white;
+  }
+  h2{
+    font-size: 5vw;
     text-align: center;
     color: white;
   }
